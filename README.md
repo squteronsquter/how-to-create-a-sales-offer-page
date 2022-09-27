@@ -46,7 +46,7 @@ Write in detail what will happen after the client makes a purchase eg. He will b
 
 A good example is a detailed description of how to get to the venue of the workshop for cooking/baking courses, etc.
 
-## At the end of teh sales page it is also very important to provide a FAQ section as well as information about whom the client may contact if she/he has some other questions. Provide email address or phone, and state when the client can call and how quickly can she/he expect to be contacted with a response. Do not make the client search this information on the contact page. Just make it available directly on the sales page or the page of the product in the online shop.
+### At the end of the sales page it is also very important to provide a FAQ section as well as information about whom the client may contact if she/he has some other questions. Provide email address or phone, and state when the client can call and how quickly can she/he expect to be contacted with a response. Do not make the client search this information on the contact page. Just make it available directly on the sales page or the page of the product in the online shop.
 
 Thank You for Your attention.
 
